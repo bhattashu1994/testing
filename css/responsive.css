@@ -1,0 +1,366 @@
+
+
+	@media screen and (max-width:1200px){
+		
+		.item-info .nav-item{
+			margin-right: 20px;
+		}
+
+		.product-list1{
+			margin-right: 90px;
+		}
+		
+	  .heading-info::before, .heading-info::after{
+	  	width: 354px;
+	  	.login-btn-detail {
+                 padding: 2px 14px;
+             }
+             .login a:nth-child(3){
+             	font-size: 14px;
+             }
+	  }
+	@media screen and (max-width:1049px){
+		.login-btn-detail {
+                 padding: 2px 14px;
+             }
+             .login a:nth-child(3){
+             	font-size: 14px;
+             }
+    
+		.nav-collapse{
+			margin-left: 22px;
+		}
+		.item-info .nav-item{
+			margin-right: 20px;
+		}
+		.item-info .nav-item .nav-link{
+			font-size: 15px;
+		}
+		.login a:first-child{
+			padding-left: 10px;
+			padding-right: 10px;
+		}
+		.login a:nth-child(2){
+			padding-left: 10px;
+		}
+		.login a:nth-child(3){
+			font-size: 22px;
+		}
+		.fa-user{
+			font-size: 22px;
+		}
+
+		.benefit-info .benifit-row .benifit-col p{
+			font-size: 15px;
+		}
+		.benefit-info .benifit-row .benifit-col p{
+			font-size: 13px;
+		}
+		.benifit-col a img{
+			max-width: 100%;
+		}
+		.benifit-row .benifit-col{
+			width: 80vw;
+		}
+		.product-list1{
+			margin-right: 75px;
+		}
+		.heading-info::before, .heading-info::after{
+	    	width: 342px;
+	    }
+	}
+	@media (max-width:991px){
+		.login-btn-detail {
+                 padding: 2px 12px;
+             }
+             .login a:nth-child(3){
+             	font-size: 12px;
+             }
+		.nav-response .nav-brand{
+			margin-left: 0px;
+		}
+		.register{
+			display: none;
+		}
+		.new-login{
+			display: block;
+		}
+		.navbar-toggler{
+			background-color: #ffffff;
+		}
+		.navbar-toggler:focus{
+			outline: none;
+		}
+	    .nav-item{
+	    	margin-left: 0px;
+	    	margin-top: 10px;
+	    	margin-bottom: 10px;
+	    }
+	    .new-login {
+	    	margin-right: 0px;
+	    }
+	    .login a{
+	    	font-size: 18px;
+	    }
+	    .login a:nth-child(3){
+	    	font-size: 25px;
+	    	padding-left: 22px;
+	    }
+	    .fa-user{
+	    	font-size: 25px;
+	    }
+	    .product-list1{
+	      margin-right: 28px;
+	    }
+	    .icon{
+	    	margin-left: 25px;
+	    }
+	    input[type=text]{
+	 	    padding-top: 10px;
+		    padding-bottom: 10px;
+		    padding-left: 12px;
+		    padding-right: 12px;
+		    font-size: 14px;
+		    width: 295px;
+	    }
+	  .footer-mail-form{
+	  	display: flex;
+	  }
+	  .subscribe{
+	  	font-size: 14px;
+	    padding: 8px 12px;
+	  }
+	  .address{
+	  	font-size: 13px;
+	  }
+	  .shop li a{
+	  	font-size: 13px;
+	  }
+	 
+	    .banner-info{
+	    	font-size: 35px;
+	    }
+	    .banner-text{
+	    	font-size: 55px;
+	    }
+	    .banner-para{
+	    	font-size: 16px;
+	    }
+	    .shop-btn{
+	    	font-size: 14px;
+	    }
+	    .dipluse-testimonial{
+		    width: 44.79vw; 
+		    padding: 12px;
+	    }
+	    .dipluse-testimonial .testo-info p{
+	    	font-size: 14px;
+	    }
+	    .dipluse-testimonial .testo-info h4{
+	    	width: 100%;
+	    }
+	    .heading-info::before, .heading-info::after{
+	    	width: 231px;
+	    }
+	    .owl-nav .owl-next span{
+		display: none;
+	}
+	}
+	@media (max-width:768px){
+	.list-heading{
+		font-size: 14px;
+	}
+	.icon .icon-list{
+		margin-bottom: 22px;
+	}
+	.icon{
+		margin-left: 15px;
+	}
+	.icon .icon-list a i{
+		font-size: 20px;
+	}
+	.services li a{
+		font-size: 12px;
+	}
+	.dipluse-heading{
+		font-size: 1.75rem;
+	}
+	.para{
+		padding-left: 10px;
+		padding-right: 10px;
+		font-size: 14px;
+	}
+	.shop-info a{
+		    padding: 8px 30px;
+	}
+	.about-us{
+		font-size: 14px;
+	}
+	.shop-now{
+		font-size: 14px;
+	}
+	.benifit-row .benifit-col{
+		width: 33vw;
+	}
+		.dipluse-testimonial{
+			width: 80.79vw;
+		}
+	    .dipluse-testimonial .testo-info p{
+	    	font-size: 14px;
+	    }
+	    .owl-theme .owl-nav{
+	    	display: none;
+	    }
+	    .testimonial-main .owl-dots .owl-dot .active:focus{
+	       outline: none;
+	       border: none;
+	    } 
+	    .owl-dots .owl-dot .active span:focus{
+	       outline: none;
+	    }
+	    .heading-info::before, .heading-info::after{
+	    	width: 134px;
+	    }
+	}
+	@media (max-width:576px){
+		.list{
+			display: block;
+		}
+		.shop li a{
+			font-size: 14px;
+		}
+		.list-heading{
+			font-size: 16px;
+			margin-bottom: 25px;
+		}
+		.product-list1{
+			margin-bottom: 25px;
+		}
+		.address {
+			font-size: 14px;
+			margin-bottom: 30px;
+		}
+		.icon{
+			display: flex;
+			margin-top: 25px;
+			margin-left: 0px;
+		}
+		.icon .icon-list{
+			margin-right: 25px;
+			margin-left: 0px;
+		}
+		.login{
+			margin-left: 0px;
+			display: flex;
+			align-items: center;
+		}
+		.login a{
+			font-size: 16px;
+		}
+		.login a:nth-child(3){
+			font-size: 22px;
+			padding-left: 18px;
+		}
+		.fa-user{
+			font-size: 22px;
+		}
+		.login a:last-child{
+			padding-left: 10px;
+		}
+		.navbar{
+			padding: 8px 4.8px;
+		}
+		.navbar-toggler{
+			font-size: 12.8px
+		}
+		
+		.copy-right{
+			padding-left: 0px;
+			font-size: 13px;
+		}
+		.benifit-row .benifit-col{
+		  width: 33vw;
+		}
+		.benefit-info .benifit-row .benifit-col p{
+			font-size: 11px;
+		}
+		.dipluse-testimonial .testo-info p{
+	    	font-size: 16px;
+	    }
+	    .owl-carousel .owl-item img{
+	    	width: 24.4vw;
+	    }
+	    .dipluse-testimonial .testo-info p{
+	    	font-size: 14px;
+	    }
+	    .dipluse-testimonial .testo-info h4{
+	   	margin-bottom: 24px;
+	   }
+	   .heading-info::before, .heading-info::after{
+	   	width: 74px;
+	   }
+	  .heading-info{
+	  	font-size: 22px;
+	  }
+
+	}
+		@media (max-width:426px){
+			.login{
+				display: flex;
+				align-items: center;
+			}
+			.login a:first-child{
+				padding-left: 5px;
+				padding-right: 5px;
+			}
+			.login a:nth-child(2){
+				padding-left: 5px;
+			}
+			.login a:nth-child(3){
+				font-size: 14px;
+				padding-left:10px;
+			}
+			.fa-user{
+				font-size: 15px;
+			}
+			.navbar-toggler{
+				font-size: 9px;
+			}
+			.login a{
+				font-size: 12px;
+			}
+			.banner-info{
+				font-size: 25px;
+			}
+			.banner-text{
+				font-size: 40px;
+			}
+			.banner-heading{
+				top: 20%;
+			}
+			.banner-para {
+				font-size: 13px;
+			}
+			.shop-btn{
+				padding: 8px 25px 8px 25px;
+				font-size: 12px;
+			}
+			.benifit-row .benifit-col{
+			width: 30vw;
+		}
+		.benefit-info .benifit-row .benifit-col p{
+			font-size: 11px;
+		}
+	   .dipluse-testimonial .testo-info h4{
+	   	margin-bottom: 24px;
+	   }
+	   .owl-carousel .owl-item img{
+	   	width: 30.4vw;
+	   }
+	   .heading-info::before, .heading-info::after{
+	   	width: 27px;
+	   }
+	   .heading-info{
+	   	font-size: 18px;
+	   }
+	}
